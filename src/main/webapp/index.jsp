@@ -5,7 +5,7 @@
 <body  bgcolor="orange"></body>
   <h1><marquee bgcolor=green> 
 <font color=red>
-ONLINE TRAINING  </font>
+ONLINE and OFFlINE TRAINING  </font>
 </marquee></h1>
   <h3>Choose Skill(s):</h3>
   <form method="get">
