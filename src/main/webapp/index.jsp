@@ -1,11 +1,11 @@
 <html>
 <head>
-  <title>Skills Development</title>
+  <title>Skills Development </title>
 </head>
 <body  bgcolor="orange"></body>
   <h1><marquee bgcolor=green> 
 <font color=red>
-ONLINE and OFFlINE TRAINING  </font>
+ONLINE  </font>
 </marquee></h1>
   <h3>Choose Skill(s):</h3>
   <form method="get">
